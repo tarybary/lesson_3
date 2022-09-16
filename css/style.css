@@ -1,0 +1,23 @@
+#content * {
+   color: green;
+}
+
+.text > p {
+   color: blue;
+}
+.text + p {
+   color: grey;
+}
+p.continue {
+   color: red;
+}
+.food li{
+   color:brown;
+}
+header,
+footer {
+   color: darkmagenta;
+}
+.food.intro {
+   color: rgb(26, 122, 90);
+}
